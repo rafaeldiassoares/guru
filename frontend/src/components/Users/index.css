@@ -1,0 +1,25 @@
+.Users {
+    margin-top: 20px;
+    background-color: #fff;
+    font-size: 18px;
+}
+
+.Users h2 {
+    padding: 10px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.Users table tr {
+    cursor: pointer;    
+}
+
+.Users table tr td {
+    padding: 15px;
+    vertical-align: middle;
+}
+
+.Users-btn {
+    background-color: #520f8d;
+    color: #fff;
+}
